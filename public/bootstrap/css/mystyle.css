@@ -1,0 +1,75 @@
+/*
+    Profile Button
+*/
+
+.btn-green{
+    background-color:#ffff;
+    color:#2f3542 !important;
+    border-color:#55E6C1;
+    font-weight:500;
+}
+
+
+.btn-green:hover , .btn-green:focus , .btn-green:visited{
+    background-color:#55E6C1;
+    color:#2f3542 !important;
+    border-color:#55E6C1;
+    font-weight:500;
+}
+
+
+.btn-edit{
+    background-color:#ffff;
+    color:#2f3542 !important;
+    border-color:#1B9CFC;
+    font-weight:500;
+}
+
+
+.btn-edit:hover , .btn-edit:focus , .btn-edit:visited{
+    background-color:#1B9CFC;
+    color:#ffffff !important;
+    border-color:#1B9CFC;
+    font-weight:500;
+}
+
+.btn-show{
+    background-color:#ffff;
+    color:#2f3542 !important;
+    border-color:#4b6584;
+    font-weight:500;
+}
+
+
+.btn-show:hover , .btn-show:focus , .btn-show:visited{
+    background-color:#4b6584;
+    color:#ffffff !important;
+    border-color:#4b6584;
+    font-weight:500;
+}
+
+
+.btn-delete{
+    background-color:#ffff;
+    color:#2f3542 !important;
+    border-color:#FD7272;
+    font-weight:500;
+}
+
+
+.btn-delete:hover , .btn-delete:focus , .btn-delete:visited{
+    background-color:#FD7272;
+    color:#ffffff !important;
+    border-color:#FD7272;
+    font-weight:500;
+}
+
+/*
+    Card color
+*/
+.card-color{
+    background-color:#fafafa;
+    color:#2f3542 !important;
+}
+
+
