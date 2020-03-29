@@ -1,5 +1,5 @@
 <p align="center" style="color:#2c3e50;">
-  ## Notes App
+  Notes App
 </p>
 
 <br>
